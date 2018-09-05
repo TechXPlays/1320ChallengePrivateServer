@@ -1,0 +1,1 @@
+Thank you for registering. Your activation code is {code}.
